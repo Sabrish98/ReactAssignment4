@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-teams {
+  background-color: #a4261d;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.team-bg-color {
+  min-width: 100%;
+  margin-top: 50px;
+}
+
+.banner-img {
+  min-width: 50%;
+}
+
+.recent-match {
+  display: flex;
+  flex-wrap: wrap;
+}
